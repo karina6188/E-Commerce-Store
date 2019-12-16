@@ -25,7 +25,7 @@ This web app uses "AdminOnly" policy to grant Admin special access previllages t
     * Account: JONATHAN'S GMAIL ADDRESS (re*************@g****.com)
     * Password: Admin1234!
 #### Entity Relationship Diagram
-![erd](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Ferd.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![erd](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/erd.png)
 * Cart table has one to many relationship with CarItems table
 * Order table has one to many relationship with OrderItems table
 * Product table has one to many relationship with CartItems table
@@ -41,61 +41,67 @@ https://dev.azure.com/dotnet-ecommerce/_git/dotnetd9-ecommerce-karina-kyungrae?_
 ### Visuals
 #### Home
 ##### Home - Logged Out
-![home-loggedout](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fhome-loggedout.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![home-loggedout](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/home-loggedout.JPG)
 ##### Home - Logged In (User)
-![home-loggedin-user](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fhome-loggedin-user.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![home-loggedin-user](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/home-loggedin-user.JPG)
 
 #### Account
 ##### Register
-![account-register](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Faccount-register.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![account-register](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/account-register.JPG)
 ##### Login
-![account-login](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Faccount-login.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![account-login](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/account-login.JPG)
 ##### User Profile
-![user-profile](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fuser-profile.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![user-profile](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/user-profile.JPG)
 ##### Manage Orders (User)
-![orders-user](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Forders-user.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![orders-user](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/orders-user.JPG)
 ##### Manage Order Details (User)
-![order-details-user](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Forder-details-user.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![order-details-user](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/order-details-user.JPG)
 
 #### Shop
 ##### Shop
-![shop](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop.JPG)
 ##### Shop/Product - Logged Out
-![shop-product-loggedout](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop-product-loggedout.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop-product-loggedout](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop-product-loggedout.JPG)
 ##### Shop/Product - Logged In
-![shop-product-loggedin](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop-product-loggedin.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop-product-loggedin](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop-product-loggedin.JPG)
 ##### Shop/Product - MiniCart
-![shop-product-loggedin-minicart](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop-product-loggedin-minicart.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop-product-loggedin-minicart](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop-product-loggedin-minicart.JPG)
 ##### Shop/Cart (Empty)
-![shop-cart-empty](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop-cart-empty.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop-cart-empty](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop-cart-empty.JPG)
 ##### Shop/Cart
-![shop-cart](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fshop-cart.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![shop-cart](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/shop-cart.JPG)
 
 #### Checkout
 ##### Checkout
-![checkout](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fcheckout.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![checkout](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/checkout.JPG)
 ##### Checkout/Receipt
-![checkout-receipt](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fcheckout-receipt.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![checkout-receipt](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/checkout-receipt.JPG)
 
 #### Admin
 ##### Admin
-![admin](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fadmin.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![admin](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/admin.JPG)
 ##### Manage Blob
-![admin-blob](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Fadmin-blob.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![admin-blob](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/admin-blob.JPG)
 ##### Manage Orders (Admin)
-![orders-admin](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Forders-admin.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![orders-admin](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/orders-admin.JPG)
 ##### Manage Order Details (Admin)
-![order-details-admin](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Forder-details-admin.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![order-details-admin](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/order-details-admin.JPG)
 ##### Inventory
-![inventory-home](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Finventory-home.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![inventory-home](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/inventory-home.JPG)
 ##### Inventory/Create
-![inventory-create](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Finventory-create.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![inventory-create](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/inventory-create.JPG)
 ##### Inventory/Edit
-![inventory-edit](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Finventory-edit.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![inventory-edit](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/inventory-edit.JPG)
 ##### Inventory/Details
-![inventory-details](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Finventory-details.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![inventory-details](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/inventory-details.JPG)
 ##### Inventory/Delete
-![inventory-delete](https://dev.azure.com/dotnet-ecommerce/b133a1d6-6623-481d-8fd2-365a886a89f8/_apis/git/repositories/c07e43b5-1b55-4bd6-b47f-6d0e100c8f0c/Items?path=%2Fdotnet_ECommerce%2Fdotnet_ECommerce%2Fwwwroot%2Fcaptures%2Finventory-delete.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1)
+![inventory-delete](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/inventory-delete.JPG)
+
+#### Email
+##### Welcome New User
+![send-email-welcome-new-user](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/welcome.JPG)
+##### Order Receipt
+![send-email-order-receipt](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/email-receipt.JPG)
 
 ---
 
