@@ -38,6 +38,11 @@ https://dev.azure.com/dotnet-ecommerce/_git/dotnetd9-ecommerce-karina-kyungrae?_
 
 ---
 
+### Vulnerability Report
+https://github.com/karina6188/E-Commerce-Store/blob/master/vulnerability-report.md
+
+---
+
 ### Visuals
 #### Home
 ##### Home - Logged Out
@@ -119,6 +124,7 @@ https://dev.azure.com/dotnet-ecommerce/_git/dotnetd9-ecommerce-karina-kyungrae?_
 ---
 
 ### Change Log
+1.2: Sprint 3 Completed, Initial Submission - 15 Dec 2019
 1.1: Sprint 2 Completed, Initial Submission - 03 Dec 2019  
 1.0: Sprint 1 Completed, Initial Submission - 26 Nov 2019  
 0.0: Project Initiated - 18 Nov 2019  
