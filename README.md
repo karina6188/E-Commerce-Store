@@ -25,7 +25,7 @@ This web app uses "AdminOnly" policy to grant Admin special access previllages t
     * Account: JONATHAN'S GMAIL ADDRESS (re*************@g****.com)
     * Password: Admin1234!
 #### Entity Relationship Diagram
-![erd](/dotnet_ECommerce/dotnet_ECommerce/wwwroot/captures/ERD.png)
+![erd](/dotnet_ECommerce/wwwroot/captures/ERD.png)
 * Cart table has one to many relationship with CarItems table
 * Order table has one to many relationship with OrderItems table
 * Product table has one to many relationship with CartItems table
